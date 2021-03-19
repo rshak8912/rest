@@ -1,0 +1,15 @@
+[source,options="nowrap"]
+----
+{
+  "name" : "Spring",
+  "description" : "REST API Development with Spring",
+  "beginEnrollmentDateTime" : "2018-11-23T14:21:00",
+  "closeEnrollmentDateTime" : "2018-11-24T14:21:00",
+  "beginEventDateTime" : "2018-11-25T14:21:00",
+  "endEventDateTime" : "2018-11-26T14:21:00",
+  "location" : "강남역 D2 스타텁 팩토리",
+  "basePrice" : 100,
+  "maxPrice" : 200,
+  "limitOfEnrollment" : 100
+}
+----
